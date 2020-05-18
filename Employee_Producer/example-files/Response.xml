@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GetEmployeeDetailsResponse xmlns="http://chubbindia.com/employees"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://chubbindia.com/employees emp-details.xsd">
+	<EmpDetails>
+		<id>123</id>
+		<name>kumar</name>
+		<address>hyderabad</address>
+	</EmpDetails>
+</GetEmployeeDetailsResponse>

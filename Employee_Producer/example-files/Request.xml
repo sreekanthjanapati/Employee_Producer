@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GetEmployeeDetailsRequest 
+	xmlns="http://chubbindia.com/employees"
+	xsi:schemaLocation="http://chubbindia.com/employees emp-details.xsd"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<id>123</id> <!-- numbers -->
+</GetEmployeeDetailsRequest>
